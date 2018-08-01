@@ -7,7 +7,7 @@ permalink: "/portfolio/"
 
 ## Pilot Research: Learning Rapidly Changing Frameworks
 
-As part of my graduate studies at Georgia Institute of Technology, I conducted research on learning in technology. This was survey research, with the focus being how developers learn rapidly changing frameworks. The research was focused on what tools were used, how quickly the learning was applied, and whether it was in response to a pressing need (e.g. a bug, change in the framework, or foreign requirement). This research is still in progress, and the materials can be found in [its repository](http://turnrye.com/cs6460-turnrye/).
+As part of my graduate studies at Georgia Institute of Technology, I conducted research on learning in technology. This was survey research, with the focus being how developers learn rapidly changing frameworks. The research was focused on what tools were used, how quickly the learning was applied, and whether it was in response to a pressing need (e.g. a bug, change in the framework, or foreign requirement). This research is still in progress, and the materials can be found in [its repository](http://turnrye.com/learning-rapidly-changing-frameworks/).
 
 ## App: Pedi Pro for EMS
 
