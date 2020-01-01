@@ -271,3 +271,4 @@ defaults:
       layout: single
       author_profile: true
       toc: true
+theme: jekyll-theme-minimal
