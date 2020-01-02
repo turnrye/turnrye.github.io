@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: default
 title: "Becoming an Autonomous System"
 ---
-
-# Becoming an Autonomous System
 
 I dreamt of starting an ISP when I was young. I was always jealous of friends who had better internet service and particularly frustrated when downtime got in the way of gaming. This dream has stuck with me, and this year I made another step forward. I got everything needed to become my own ISP from ARIN.
 
