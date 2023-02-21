@@ -1,0 +1,4 @@
+baseURL = 'http://turnrye.github.io/'
+languageCode = 'en-us'
+title = 'Ryan Turner'
+theme = 'ananke'

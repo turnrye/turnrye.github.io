@@ -1,7 +1,9 @@
 ---
-layout: default
 title: "Becoming an Autonomous System"
+date: 2020-01-01T00:00:00-06:00
+draft: false
 ---
+
 
 I dreamt of starting an ISP when I was young. I envied friends with better internet service. I was an absolute grouch when a down modem got in the way of gaming. I thought I could do better, or at least understand it better. This dream stuck with me, and in 2019 I finally did it. According to the authorities, I am now an ISP.
 
