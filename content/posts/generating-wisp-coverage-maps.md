@@ -4,14 +4,9 @@ date: 2023-02-20T00:00:00-06:00
 draft: true
 ---
 
-Based on W9CR https://fasma.org/modeling-repeaters-in-north-florida/
+Based on prior works: https://fasma.org/modeling-repeaters-in-north-florida/ and https://github.com/kd7lxl/signalserver-scripts.
 
-
-https://github.com/kd7lxl/signalserver-scripts
-
-https://github.com/turnrye/Signal-Server
-
-For this we'll be using a dockerized version of the signal-server. This is handy because the project doesn't distribute binaries and is a bit sporatically maintained, so this lets us skip any sort of build env setup steps. And docker is fun to play in, afterall. 
+For this we'll be using a dockerized version of the signal-server. This is handy because the project doesn't distribute binaries and is a bit sporatically maintained, so this lets us skip any sort of build env setup steps. And docker is fun to play in, afterall. You can find the dockerfile in my fork of the [Signal-Server](https://github.com/turnrye/Signal-Server) project.
 
 To explore the image, drop into a shell:
 
