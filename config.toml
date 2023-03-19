@@ -2,3 +2,7 @@ baseURL = 'http://turnrye.github.io/'
 languageCode = 'en-us'
 title = 'Ryan Turner'
 theme = 'ananke'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
